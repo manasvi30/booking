@@ -1,0 +1,58 @@
+
+.berlin{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.red{
+    color: red;
+    font-size: 20px;
+}
+body{
+    
+    background-color: black;
+}
+h2{
+    font-size: 72px;
+    color:  rgb(99, 99, 150);
+    width:1300px;
+    
+    margin: 20px auto;
+    text-align: center;
+
+}
+ h3 {
+    font-size: 60px;
+    color: rgb(111, 188, 207);
+ }
+
+ h4{
+    font-size: 48px;
+    color: rgb(199, 170, 199)
+ }
+ h4:hover{
+    cursor: pointer;
+ }
+ p{
+    font-size: 24px;
+    color: black;
+ }
+
+.one {
+    
+    color: rgb(253, 249, 249);
+    
+}
+.join{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background-color: teal;
+    border-radius: 20px;
+    margin:40px;
+    
+}
+img{
+    width: 450px;
+    height:500px;
+}

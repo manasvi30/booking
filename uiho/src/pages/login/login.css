@@ -1,0 +1,133 @@
+body{
+    background: url(bgg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+.lcontainer
+{
+    color: rgb(50, 80, 124);
+    position: absolute;
+    top: 12%;
+    right: 65%;
+}
+
+.lcontainer h1
+{  
+    font-family: 'Barlow Condensed', sans-serif;
+    width: 50%;
+    display: inline-block;
+    font-size: 50px;
+    border-bottom: 5px solid teal;
+    margin-bottom: 30px;
+    padding: 13px 0;
+
+}
+
+.box
+{
+  max-height: 65px;
+  overflow: hidden;
+  transition: max-height 0.5s;
+  width: 100%;
+  border-bottom: 2px solid teal;
+  margin: 17px 0px;
+    
+}
+.box input
+{
+
+    background: none;
+    width: 75%;
+    border: none;
+    outline: none;
+    color: rgb(50, 80, 124);
+    margin: 13px 0px;
+    padding: 5px 10px;
+    font-size: 20px;
+    
+}
+
+.lbtn
+{
+    border-radius: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: rgb(50, 80, 124);
+    cursor: pointer;
+    outline: none;
+    width: 25%;
+    margin: 6px 0;
+    padding: 6px 6px;
+    border-radius: 10px;
+    border: 2px solid teal;
+    background: none;
+    font-size: 20px;
+    transition: background 1s;
+
+}
+
+.box i
+{   
+    width: 25px;
+    text-align: center;
+}
+.lbtn:hover
+{
+    background: rgb(50, 80, 124);
+    color: teal;
+    opacity: 0.5;
+
+}
+p{
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+p a
+{
+    text-decoration: none;
+    color: teal;
+    font-family: 'Barlow Condensed', sans-serif;
+
+}
+.or{
+    justify-content: center;
+    align-items: center;
+    margin-left: 90px;
+    font-size: 28px;
+    color: rgb(50, 80, 124);
+}
+
+.app{
+    font-size: 20px;
+    color: rgb(50, 80, 124);
+}
+
+.log{
+    color:rgb(50, 80, 124);
+}
+p, button{
+    color:rgb(50, 80, 124);
+}
+.loginButton{
+    width:300px;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 20px;
+ }
+ 
+ .google{
+     
+     background-color: #df4930;
+     font-size: 25px;
+ }
+ 
+ .icon{
+     width: 25px;
+     height: 25px;
+     margin-right: 10px;
+ }
+ 

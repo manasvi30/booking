@@ -1,0 +1,27 @@
+.title{
+    font-family: 'Poppins', sans-serif;
+}
+h3{
+    font-size: 72px;
+    color: rgb(230, 230, 245);
+    width:1300px;
+    
+    margin: 20px auto;
+    text-align: center;
+
+}
+ h3 span{
+    color: rgb(111, 188, 207);
+ }
+
+.new p{
+    font-size: 32px;
+    color: rgb(253, 249, 249);
+    text-align: center;
+}
+.new{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
