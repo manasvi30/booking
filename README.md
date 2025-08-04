@@ -4,22 +4,22 @@
 
 ---
 
-## 🔧 Core Features
+## Core Features
 
-### ✅ Authentication & Access Control
+### Authentication & Access Control
 - Register with username, email, and password
 - Login using credentials or Google OAuth
 - Session-based access to booking features
 
-### 🏨 Hotel Search and Booking
+### Hotel Search and Booking
 - Search hotels based on destination, dates, and guest count
 - View hotel info, available room types, and pricing
 - Reserve selected rooms and confirm bookings
 
-### 📩 Subscription & Updates
+###  Subscription & Updates
 - Users can subscribe with name/email to receive promotions and updates via email
 
-### 🖥️ Responsive UI & UX
+###  Responsive UI & UX
 - Web-based UI
 - Structured navigation through dedicated pages (Home, Login, Sign Up, About)
 - Static hotel listing with search-based filtering
